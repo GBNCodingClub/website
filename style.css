@@ -18,14 +18,12 @@ nav a{
   cursor: pointer;
   text-decoration: none;
   border-bottom: 1px solid black;
-  font-size: 8px;
 }
 
 nav h2 a{
   color: black;
   padding-left: 8px;
   border: none;
-  font-size: 8px;
 }
 footer{
   width: 100%;
