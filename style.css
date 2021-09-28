@@ -25,7 +25,12 @@ nav h2 a{
   padding-left: 8px;
   border: none;
 }
-
+footer{
+  width: 100%;
+  text-align:center;
+  background-color:green;
+  color: white;
+}
 
 
 .content{
