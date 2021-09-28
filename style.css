@@ -26,6 +26,11 @@ nav h2 a{
   border: none;
 }
 
+nav L1
+{
+   background: linear-gradient(to left, #ffff00 0%, #66ff33 100%);
+}
+
 .content{
   text-align: center;
 }
