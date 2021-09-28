@@ -26,13 +26,7 @@ nav h2 a{
   border: none;
 }
 
-hr.style-one
-{
-   background-color: #006b3f;
-   background-image: linear-gradient(45deg, #f3ec78, #006b3f);
-   height: 2px;
-   border: 0;
-}
+
 
 .content{
   text-align: center;
