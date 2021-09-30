@@ -93,14 +93,20 @@ footer{
 }
 
 .memberbtn {
-   transition-duration: 0.4s;
-  background-color: green; 
-  color: yellow;
+  background-color: #0c8333;
+  color: #f1f270;
+  width: 100px;
+  height: 45px;
+  border-radius: 15px;
+  font-size: 20px;
+  border: none;
+  font-family: inter;
+  text-align: center;
 
 }
 
 .memberbtn:hover {
-  background-color: yellow; 
+  background-color: #ddd; 
   color: white;
 }
 
