@@ -94,6 +94,8 @@ footer{
 
 .memberbtn {
    transition-duration: 0.4s;
+  background-color: green; 
+  color: yellow;
 
 }
 
