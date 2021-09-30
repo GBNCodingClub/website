@@ -93,6 +93,7 @@ footer{
 }
 
 .memberbtn {
+  transition-duration: 0.4s;
   background-color: #0c8333;
   color: #f1f270;
   width: 100px;
