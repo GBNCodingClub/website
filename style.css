@@ -92,6 +92,10 @@ footer{
   display: block;
 }
 
+.member-buttons {
+ text-align:center; 
+}
+
 .memberbtn {
   transition-duration: 0.4s;
   background-color: #0c8333;
