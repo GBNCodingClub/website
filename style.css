@@ -76,6 +76,11 @@ footer{
   text-align: center;
 }
 
+.dropdown-btns {
+  text-align: center;
+
+}
+
 .dropdownProj {display: inline-block}
 
 .dropdown-content {
