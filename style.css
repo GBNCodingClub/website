@@ -68,13 +68,15 @@ footer{
   text-align: center;
 }
 
-
+.dropbtnProj {width: 100%}
 
 .dropdown {
   position: relative;
   display: inline-block;
   text-align: center;
 }
+
+.dropdownProj {display: inline}
 
 .dropdown-content {
   display: none;
@@ -84,6 +86,9 @@ footer{
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
+
+.dropdown-contentProj {left: 50%; -ms-transform: translateX(-50%);
+transform: translateX(-50%);}
 
 .dropdown-content a {
   color: black;
