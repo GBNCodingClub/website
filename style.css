@@ -76,9 +76,7 @@ footer{
   text-align: center;
 }
 
-
-
-.dropdownProj {display: inline-block}
+.dropdownProj {display: inline}
 
 .dropdown-content {
   display: none;
